@@ -5,7 +5,7 @@
     "howTouse": "https://m.youtube.com/watch?v=U0YlUGPzR-I",
     "nextI": false,
     "nextR": true,
-    "nextB": false,
+    "nextB": true,
     "time": 30,
     "numOfRec": 6
 }
