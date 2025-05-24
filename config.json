@@ -3,9 +3,9 @@
         "RU"
     ],
     "howTouse": "https://m.youtube.com/watch?v=U0YlUGPzR-I",
-    "nextI": false,
+    "nextI": true,
     "nextR": true,
     "nextB": true,
-    "time": 30,
+    "time": 20,
     "numOfRec": 6
 }
